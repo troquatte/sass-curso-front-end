@@ -6,7 +6,7 @@
 
 ## :custard: Descrição
 
-<p>Aulas Desenvolvida no curso Jornada Front-end modulo: Sass</p>
+<p>Aulas Desenvolvidas no curso Jornada Front-end modulo: Sass</p>
 <p><strong>Tecnologias:</strong> Sass</p>
 
 ---
